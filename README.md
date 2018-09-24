@@ -1,4 +1,3 @@
-# android_device_xiaomi_ursa
 For building TWRP for Xiaomi Mi MI 8 Explorer Edition
 
 TWRP device tree for Xiaomi MI 8 Explorer Edition
