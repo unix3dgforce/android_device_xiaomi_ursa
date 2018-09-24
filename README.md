@@ -27,7 +27,7 @@ Xiaomi Mi MI 8 Explorer Edition was announced and released in June 2018.
 
 ## Device picture
 
-![Xiaomi Mi 8 Explorer Edition ](https://s3.citrus.ua/upload/medialibrary/d1b/xiaomi-mi-8-explorer-edition-back.jpg)
+![Xiaomi Mi 8 Explorer Edition ](https://itc.ua/wp-content/uploads/2018/07/mi83.0.jpg)
 
 ## Features
 
